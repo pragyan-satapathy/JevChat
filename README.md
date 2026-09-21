@@ -1,2 +1,2 @@
 # JevChat
-What happens when you make a yes-or-no model chat?   This project turns Jev’s choices into words, so now Jev can chat too.
+Who say Jev doesn't chat? I gave it a choice of characters to choose from and make a complete word.
